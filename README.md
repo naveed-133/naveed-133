@@ -38,12 +38,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveedahmed133&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveed-133&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=naveedahmed133&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveed-133&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedahmed133&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-133&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
 
 ---
 
